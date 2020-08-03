@@ -1,0 +1,13 @@
+<object-stream>
+  <linked-list>
+    <application.Agent>
+      <agentId>21</agentId>
+      <firstname>Tony</firstname>
+      <surname>montana</surname>
+      <email>tony@hotmail.com</email>
+      <password>tony</password>
+      <phoneNo>087635223</phoneNo>
+      <companyName>Cuba</companyName>
+    </application.Agent>
+  </linked-list>
+</object-stream>
