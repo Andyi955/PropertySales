@@ -1,0 +1,76 @@
+<object-stream>
+  <linked-list>
+    <application.Property>
+      <id>88</id>
+      <description>fd</description>
+      <address>aaa</address>
+      <category>Attached</category>
+      <county>Waterford</county>
+      <rating>44.0</rating>
+      <price>55.0</price>
+    </application.Property>
+    <application.Property>
+      <id>77</id>
+      <description>qqq</description>
+      <address>11 street</address>
+      <category>All</category>
+      <county>All</county>
+      <rating>76.0</rating>
+      <price>500000.0</price>
+    </application.Property>
+    <application.Property>
+      <id>11</id>
+      <description>2 bedrooms</description>
+      <address>15 street</address>
+      <category>All</category>
+      <county>All</county>
+      <rating>88.0</rating>
+      <price>200000.0</price>
+    </application.Property>
+    <application.Property>
+      <id>19</id>
+      <description>5 bedrooms</description>
+      <address>33 street</address>
+      <category>All</category>
+      <county>All</county>
+      <rating>100.0</rating>
+      <price>600000.0</price>
+    </application.Property>
+    <application.Property>
+      <id>21</id>
+      <description>3 bedrooms</description>
+      <address>77 street</address>
+      <category>Attached</category>
+      <county>Waterford</county>
+      <rating>80.0</rating>
+      <price>600000.0</price>
+    </application.Property>
+    <application.Property>
+      <id>33</id>
+      <description>3 bedrooms</description>
+      <address>88 street</address>
+      <category>Semi-Attached</category>
+      <county>Cork</county>
+      <rating>80.0</rating>
+      <price>200000.0</price>
+    </application.Property>
+    <application.Property>
+      <id>55</id>
+      <description>3 bedrooms</description>
+      <address>2288 street</address>
+      <category>Semi-Attached</category>
+      <county>Cork</county>
+      <rating>90.0</rating>
+      <price>200000.0</price>
+    </application.Property>
+    <application.Property>
+      <id>12</id>
+      <description>q</description>
+      <address>q</address>
+      <category>All</category>
+      <county>All</county>
+      <rating>55.0</rating>
+      <price>77.0</price>
+    </application.Property>
+  </linked-list>
+</object-stream>
